@@ -10,5 +10,3 @@ Welcome to my GitHub! I'm passionate about technology, driven by innovation, and
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BryanJanuardo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
